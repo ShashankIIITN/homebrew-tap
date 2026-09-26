@@ -1,8 +1,8 @@
 class ShellAi < Formula
   desc "A language-agnostic CLI tool that brings AI into your terminal"
   homepage "https://github.com/ShashankIIITN/shell-ai"
-  url "https://github.com/ShashankIIITN/shell-ai/archive/refs/tags/v2.2.1-publish-workflow.tar.gz"
-  sha256 "3737c66013793ac388736d14ebc5576bce1b558cc586b002d977f340c69c2e9e"
+  url "https://github.com/ShashankIIITN/shell-ai/archive/refs/tags/v2.2.1-publish-workflow-2.tar.gz"
+  sha256 "5dd89405d74d5747dee4622d2aab1f8e07949830f3d1f15e3adc285d55dbca17"
   license "MIT"
 
   def install
